@@ -42,6 +42,7 @@ Nutritioner/
 │   └── gradle-wrapper.properties #gradle wrapper file, change dependencies
 ├── .gitignore
 ├── Nutritioner.fig  #Figma design file
+├── README.md
 ├── build.gradle
 ├── gradle.properties
 ├── gradlew
@@ -49,9 +50,8 @@ Nutritioner/
 ├── hs_err_pid22512.log
 ├── hs_err_pid22732.log
 ├── hs_err_pid27644.log
-├── settings.gradle
-└── README.md
-
+└── settings.gradle
+ 
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
